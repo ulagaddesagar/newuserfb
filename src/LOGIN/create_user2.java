@@ -22,7 +22,7 @@ public class create_user2 {
 		driver.findElement(By.xpath("//input[@aria-label='Mobile number or email address']")).sendKeys("9049314343");
 		driver.findElement(By.xpath("//input[@aria-label='New password']")).sendKeys("sheet@123");
 		
-		
+		//Successfully Updated
 
 	}
 
